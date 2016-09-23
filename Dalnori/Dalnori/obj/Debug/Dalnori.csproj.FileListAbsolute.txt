@@ -1,0 +1,12 @@
+C:\project\dalnori\i\Dalnori\bin\Debug\Dalnori.exe.config
+C:\project\dalnori\i\Dalnori\obj\Debug\Dalnori.csprojResolveAssemblyReference.cache
+C:\project\dalnori\i\Dalnori\bin\Debug\Dalnori.exe
+C:\project\dalnori\i\Dalnori\bin\Debug\Dalnori.pdb
+C:\project\dalnori\i\Dalnori\obj\Debug\Dalnori.exe
+C:\project\dalnori\i\Dalnori\obj\Debug\Dalnori.pdb
+C:\project\dalnori\Dalnori\Dalnori\bin\Debug\Dalnori.exe.config
+C:\project\dalnori\Dalnori\Dalnori\obj\Debug\Dalnori.exe
+C:\project\dalnori\Dalnori\Dalnori\obj\Debug\Dalnori.pdb
+C:\project\dalnori\Dalnori\Dalnori\bin\Debug\Dalnori.exe
+C:\project\dalnori\Dalnori\Dalnori\bin\Debug\Dalnori.pdb
+C:\project\dalnori\Dalnori\Dalnori\obj\Debug\Dalnori.csprojResolveAssemblyReference.cache
