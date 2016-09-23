@@ -1,0 +1,5 @@
+C:\project\dalnori\Dalnori\I\bin\Debug\I.dll
+C:\project\dalnori\Dalnori\I\bin\Debug\I.pdb
+C:\project\dalnori\Dalnori\I\obj\Debug\I.csprojResolveAssemblyReference.cache
+C:\project\dalnori\Dalnori\I\obj\Debug\I.dll
+C:\project\dalnori\Dalnori\I\obj\Debug\I.pdb
